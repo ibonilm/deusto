@@ -18,10 +18,14 @@ Can manage medical appointments and treatments, history.
 
 Technologies used: **C# cross-platform and Xamarin. iOS and Android support**.
  
+![Overview](./routes/native.png)
+ 
 ## Hybrid mobile apps 
 To manage patients, visits, medical history, and treatments.
 
 Technologies used: Cordova, HTML/JavaScript, **Visual Studio Tools for Apache Cordova**. Cordova was selected just for demonstration purpose.
+
+![Overview](./routes/hybrid.png)
  
 ## Azure Services
 HealthClinic uses a cloud-first strategy where Microsoft Azure is a key ingredient of this approach.
@@ -30,8 +34,12 @@ All the backend services are hosted on Azure and use several services as **Azure
 
 The development team also uses Microsoft Azure for their **dev-test** environments using Azure ARM templates to provision new enviroments.
 
+![Overview](./routes/azure.png)
+
 ## Development Team
 As HealthClinic organization grows, they will want to make sure that they configure the **Agile tools** to support that growth. 
 
 To enable each feature team the autonomy it needs to manage their backlog and plan their sprints, they need their own set of team tools.
 HealthClinic has three different agile teams working in the same project, with the same goals, but they need a tooling that allows them to work in an agile environment with autonomy.
+
+![Overview](./routes/team.png)
