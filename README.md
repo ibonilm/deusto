@@ -3,7 +3,7 @@ HealthClinic.biz is a regular doctor practice specialized in offering healthcare
 
 This clinic uses **Microsoft technologies** to grow their business and modernize their customer experience. They innovate and offer multiple apps and services that empower their patient´s well-being with easy access to manage their healthcare data and stay healthy.
 
-![Alt text](deusto/routes/overview.jpg?raw=true "Optional Title")
+![Overview](./routes/overview.png)
 
 ## Public website
 Modern web app to improve their trademark. Public website that shows information about tools, services, offers, and integration with insurance companies.
